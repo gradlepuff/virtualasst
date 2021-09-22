@@ -1,10 +1,10 @@
 # Assistant_python
-this is a virtual assistant made using python
+this is a Basic virtual assistant made using python
 
 directions to use:-
 clone the repo
 ```bash
-git clone https://github.com/Chiraagkv/Assistant_python.git
+git clone https://github.com/gradlepuff/virtualasst.git
 ```
 
 Install PyAudio using the .whl file
